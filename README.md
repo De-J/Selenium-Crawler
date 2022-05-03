@@ -5,6 +5,10 @@ This repository contains python scripts for scraping data, using Selenium, from 
 #### Features implemented: 
 1) Taking search name as input and generating output text file.
 2) Fetching a variable number of product details (like brand, model name, color) by asking for a number at the beginning. 
+
+![terminal_dictionary_results](https://user-images.githubusercontent.com/81843086/166524057-388c8d59-ad75-4704-a07c-f44aed29ec82.png "Inputs taken along with dictionary of each product")
+
+
 3) Mimicking human behaviour/evading bot detection using [Selenium-stealth](https://pypi.org/project/selenium-stealth/) (not tested fully).
 
 ```python
@@ -36,15 +40,12 @@ Solution: Using [Selenium-stealth](https://pypi.org/project/selenium-stealth/) a
 For example, on both Amazon and Flipkart, searching for electronics like mobiles or laptops yields only 1 product per row. On the other hand, clothing items or food products tend to be displayed 4 products per row.
 Since, the results are displayed differently for different products, the HTML code in DOM changes for different products.
 
+![multiple_products_in_a_row](https://user-images.githubusercontent.com/81843086/166524623-96b797bd-c227-4855-918a-e581ae72026a.png "multiple products in a row")
+
 Solution: In Flipkart search results, look only for  `<div>` tags with `data-id` attribute since each of these tags indicates presence of a product.
 ```python
 cols = driver.find_elements(By.CSS_SELECTOR, "div[data-id]")
 ```
-
-
-
-
-
 
 #### Improvements yet to be done:
 1) Creating a text file handling function/module and calling it in main module.
@@ -52,3 +53,5 @@ cols = driver.find_elements(By.CSS_SELECTOR, "div[data-id]")
 3) To further evade bot detection, recompiling the source code of chromedriver by replacing instances of `cdc_` string according to this [discussion](https://stackoverflow.com/questions/33225947/can-a-website-detect-when-you-are-using-selenium-with-chromedriver). 
 
 4) Editing file handling code to display properly indented search results in `searches.txt`.
+
+![Search_mobile](https://user-images.githubusercontent.com/81843086/166525007-863c7279-96d5-423c-bf26-e7ee7f635cec.png "Search results for mobile- not properly indented")
