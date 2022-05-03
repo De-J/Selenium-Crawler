@@ -1,0 +1,60 @@
+Name		In The Box		Model Number		Model Name		Color		Browse Type		
+REDMI 9i Sport (Carbon Black, 64 GB)  (4 GB RAM)								Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide								M2006C3LII|MZB0BQJIN								9i Sport								Carbon Black								Smartphones								
+REDMI 9i Sport (Metallic Blue, 64 GB)  (4 GB RAM)								Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide								MZB0A0ZIN|MZB0BQRIN								9i Sport								Metallic Blue								Smartphones								
+REDMI 9i Sport (Coral Green, 64 GB)  (4 GB RAM)								Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide								MZB0A0XIN|MZBOBQSIN								9i Sport								Coral Green								Smartphones								
+REDMI 10 (Pacific Blue, 64 GB)  (4 GB RAM)								Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card								MZB0B6OIN								10								Pacific Blue								Smartphones								
+REDMI 10 (Midnight Black, 64 GB)  (4 GB RAM)								Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card								MZB0B6WIN								10								Midnight Black								Smartphones								
+POCO C31 (Royal Blue, 64 GB)  (4 GB RAM)								Handset, Power Adapter, Micro-USB Cable, SIM Ejector Tool, User Guide and Warranty Card								MZB0A0KIN								C31								Royal Blue								Smartphones								
+realme 9i (Prism Blue, 64 GB)  (4 GB RAM)								Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case								RMX3491								9i								Prism Blue								Smartphones								
+realme 9i (Prism Black, 64 GB)  (4 GB RAM)								Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case								RMX3491								9i								Prism Black								Smartphones								
+realme C11 2021 (Cool Grey, 32 GB)  (2 GB RAM)								Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide								RMX3231								C11 2021								Cool Grey								Smartphones								
+realme 9i (Prism Black, 128 GB)  (4 GB RAM)								Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case								RMX3491								9i								Prism Black								Smartphones								
+realme 9i (Prism Black, 128 GB)  (6 GB RAM)								Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case								RMX3491								9i								Prism Black								Smartphones								
+realme C11 2021 (Cool Blue, 32 GB)  (2 GB RAM)								Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide								RMX3231								C11 2021								Cool Blue								Smartphones								
+realme C11 2021 (Cool Blue, 64 GB)  (4 GB RAM)								Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide								RMX3231								C11 2021								Cool Blue								Smartphones								
+REDMI 10 (Caribbean Green, 64 GB)  (4 GB RAM)								Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card								MZB0B6VIN								10								Caribbean Green								Smartphones								
+realme C11 2021 (Cool Grey, 64 GB)  (4 GB RAM)								Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide								RMX3231								C11 2021								Cool Grey								Smartphones								
+SAMSUNG Galaxy F22 (Denim Blue, 64 GB)  (4 GB RAM)								Handset, Adaptor (15W), Charging Cable, Sim Ejector Pin, User Manual								SM-E225FLBDINS								Galaxy F22								Denim Blue								Smartphones								
+SAMSUNG Galaxy F22 (Denim Black, 64 GB)  (4 GB RAM)								Handset, Adaptor (15W), Charging Cable, Sim Ejector Pin, User Manual								SM-E225FZKDINS								Galaxy F22								Denim Black								Smartphones								
+SAMSUNG Galaxy F22 (Denim Blue, 128 GB)  (6 GB RAM)								Handset, Adaptor (15W), Charging Cable, Sim Ejector Pin, User Manual								SM-E225FLBHINS								Galaxy F22								Denim Blue								Smartphones								
+REDMI Note 10S (Deep Sea Blue, 64 GB)  (6 GB RAM)								Handset, Adapter, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card								MZB08POIN								Note 10S								Deep Sea Blue								Smartphones								
+POCO M3 Pro 5G (Yellow, 128 GB)  (6 GB RAM)								Handset, Power Adaptor, USB Type-C Cable, SIM Ejector Tool, Protective Case, Quick Start Guide and Warranty Card								MZB0956IN								M3 Pro 5G								Yellow								Smartphones								
+REDMI Note 10S (Frost White, 64 GB)  (6 GB RAM)								Handset, Adapter, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card								MZB08PMIN								Note 10S								Frost White								Smartphones								
+POCO C31 (Royal Blue, 32 GB)  (3 GB RAM)								Handset, Power Adapter, Micro-USB Cable, SIM Ejector Tool, User Guide and Warranty Card								MZB0A0JIN								C31								Royal Blue								Smartphones								
+Infinix Hot 11 2022 (Aurora Green, 64 GB)  (4 GB RAM)								Handset, Adaptor, USB Type-C Cable, TPU Case, Protective Screen Guard, Sim Ejector Pin, Quick Start Guide, Warranty Card								X675								Hot 11 2022								Aurora Green								Smartphones								
+POCO M3 Pro 5G (Cool Blue, 128 GB)  (6 GB RAM)								Handset, Power Adaptor, USB Type-C Cable, SIM Ejector Tool, Protective Case, Quick Start Guide and Warranty Card								MZB0954IN								M3 Pro 5G								Cool Blue								Smartphones								
+
+
+#Search2
+
+Name				In The Box				Model Number				Model Name				Color				Browse Type				
+REDMI 9i Sport (Metallic Blue, 64 GB)  (4 GB RAM)				Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide				MZB0A0ZIN|MZB0BQRIN				9i Sport				Metallic Blue				Smartphones				
+REDMI 9i Sport (Coral Green, 64 GB)  (4 GB RAM)				Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide				MZB0A0XIN|MZBOBQSIN				9i Sport				Coral Green				Smartphones				
+REDMI 10 (Pacific Blue, 64 GB)  (4 GB RAM)				Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card				MZB0B6OIN				10				Pacific Blue				Smartphones				
+REDMI 10 (Midnight Black, 64 GB)  (4 GB RAM)				Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card				MZB0B6WIN				10				Midnight Black				Smartphones				
+REDMI 9i Sport (Carbon Black, 64 GB)  (4 GB RAM)				Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide				M2006C3LII|MZB0BQJIN				9i Sport				Carbon Black				Smartphones				
+POCO C31 (Royal Blue, 64 GB)  (4 GB RAM)				Handset, Power Adapter, Micro-USB Cable, SIM Ejector Tool, User Guide and Warranty Card				MZB0A0KIN				C31				Royal Blue				Smartphones				
+realme 9i (Prism Blue, 64 GB)  (4 GB RAM)				Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case				RMX3491				9i				Prism Blue				Smartphones				
+realme 9i (Prism Black, 64 GB)  (4 GB RAM)				Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case				RMX3491				9i				Prism Black				Smartphones				
+realme C11 2021 (Cool Grey, 32 GB)  (2 GB RAM)				Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide				RMX3231				C11 2021				Cool Grey				Smartphones				
+realme C11 2021 (Cool Blue, 32 GB)  (2 GB RAM)				Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide				RMX3231				C11 2021				Cool Blue				Smartphones				
+realme 9i (Prism Black, 128 GB)  (4 GB RAM)				Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case				RMX3491				9i				Prism Black				Smartphones				
+realme 9i (Prism Black, 128 GB)  (6 GB RAM)				Handset, Adapter, USB Cable, Important Info Booklet with Warranty Card, Quick Guide, SIM Card Tool, Screen Protect Film, Case				RMX3491				9i				Prism Black				Smartphones				
+realme C11 2021 (Cool Blue, 64 GB)  (4 GB RAM)				Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide				RMX3231				C11 2021				Cool Blue				Smartphones				
+realme C11 2021 (Cool Grey, 64 GB)  (4 GB RAM)				Handset, Adapter (5V/2A), USB Cable, SIM Card Tool, Important Info Booklet with Warranty Card, Quick Guide				RMX3231				C11 2021				Cool Grey				Smartphones				
+REDMI 10 (Caribbean Green, 64 GB)  (4 GB RAM)				Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card				MZB0B6VIN				10				Caribbean Green				Smartphones				
+SAMSUNG Galaxy F22 (Denim Blue, 64 GB)  (4 GB RAM)				Handset, Adaptor (15W), Charging Cable, Sim Ejector Pin, User Manual				SM-E225FLBDINS				Galaxy F22				Denim Blue				Smartphones				
+SAMSUNG Galaxy F22 (Denim Black, 64 GB)  (4 GB RAM)				Handset, Adaptor (15W), Charging Cable, Sim Ejector Pin, User Manual				SM-E225FZKDINS				Galaxy F22				Denim Black				Smartphones				
+SAMSUNG Galaxy F22 (Denim Blue, 128 GB)  (6 GB RAM)				Handset, Adaptor (15W), Charging Cable, Sim Ejector Pin, User Manual				SM-E225FLBHINS				Galaxy F22				Denim Blue				Smartphones				
+REDMI Note 10S (Frost White, 64 GB)  (6 GB RAM)				Handset, Adapter, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card				MZB08PMIN				Note 10S				Frost White				Smartphones				
+POCO M3 Pro 5G (Yellow, 128 GB)  (6 GB RAM)				Handset, Power Adaptor, USB Type-C Cable, SIM Ejector Tool, Protective Case, Quick Start Guide and Warranty Card				MZB0956IN				M3 Pro 5G				Yellow				Smartphones				
+REDMI Note 10S (Deep Sea Blue, 64 GB)  (6 GB RAM)				Handset, Adapter, USB Type-C Cable, Sim Eject Tool, Protective Case, Quick Start Guide, Warranty Card				MZB08POIN				Note 10S				Deep Sea Blue				Smartphones				
+POCO C31 (Royal Blue, 32 GB)  (3 GB RAM)				Handset, Power Adapter, Micro-USB Cable, SIM Ejector Tool, User Guide and Warranty Card				MZB0A0JIN				C31				Royal Blue				Smartphones				
+Infinix Hot 11 2022 (Aurora Green, 64 GB)  (4 GB RAM)				Handset, Adaptor, USB Type-C Cable, TPU Case, Protective Screen Guard, Sim Ejector Pin, Quick Start Guide, Warranty Card				X675				Hot 11 2022				Aurora Green				Smartphones				
+POCO M3 Pro 5G (Cool Blue, 128 GB)  (6 GB RAM)				Handset, Power Adaptor, USB Type-C Cable, SIM Ejector Tool, Protective Case, Quick Start Guide and Warranty Card				MZB0954IN				M3 Pro 5G				Cool Blue				Smartphones				
+
+#Search3
+
+Name				In The Box				Model Number				Model Name				Color				Browse Type				
+REDMI 10 (Midnight Black, 64 GB)  (4 GB RAM)				Handset, Adapter, USB Type C Cable, Sim Eject Tool, Quick Start Guide, Warranty Card				MZB0B6WIN				10				Midnight Black				Smartphones				
+REDMI 9i Sport (Coral Green, 64 GB)  (4 GB RAM)				Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guide				MZB0A0XIN|MZBOBQSIN				9i Sport				Coral Green				Smartphones				
